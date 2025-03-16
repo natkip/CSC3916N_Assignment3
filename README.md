@@ -72,4 +72,4 @@ Create a collection in MongoDB to hold information about movies
 - https://render.com/docs/deploy-create-react-app **important: Environment Variable for https://github.com/AliceNN-ucdenver/CSC3916_REACT env.REACT_APP_API_URL, this weekend I will look at changes (I believe only 1 change in the actions)
 
 - 
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">]((https://www.postman.com/kippurn/workspace/my-workspace/collection/41590986-45f74b04-d2c5-4cd6-8e48-8a5bd5ac5416?action=share&creator=41590986&active-environment=41590986-0fe3df41-9515-41be-8358-99b8b6b873a6))
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/41590986-45f74b04-d2c5-4cd6-8e48-8a5bd5ac5416?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D41590986-45f74b04-d2c5-4cd6-8e48-8a5bd5ac5416%26entityType%3Dcollection%26workspaceId%3D9476d763-06b0-4dad-808c-aa2fffdc9776)
